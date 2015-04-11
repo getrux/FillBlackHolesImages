@@ -12,6 +12,6 @@ We can create the mask image to indicate what part we want to delete
 
 ![alt tag](http://i.imgur.com/agVO3cW.png)
 
-Finally, the algorithm to delete the object and fill the hole with new pixels, analyze the contour to try to choose the best combination
+Finally, for the algorithm to delete the object and fill the hole with new pixels, you need to analyze the surrounding pixels to try to choose the best combination
 
 ![alt tag](http://i.imgur.com/zY3WcxM.png)
